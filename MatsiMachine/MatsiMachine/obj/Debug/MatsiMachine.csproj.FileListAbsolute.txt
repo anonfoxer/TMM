@@ -1,0 +1,9 @@
+c:\users\kevin\documents\visual studio 2015\Projects\MatsiMachine\MatsiMachine\bin\Debug\MatsiMachine.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\MatsiMachine\MatsiMachine\bin\Debug\MatsiMachine.exe
+c:\users\kevin\documents\visual studio 2015\Projects\MatsiMachine\MatsiMachine\bin\Debug\MatsiMachine.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\MatsiMachine\MatsiMachine\obj\Debug\MatsiMachine.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\MatsiMachine\MatsiMachine\obj\Debug\MatsiMachine.Form1.resources
+c:\users\kevin\documents\visual studio 2015\Projects\MatsiMachine\MatsiMachine\obj\Debug\MatsiMachine.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\MatsiMachine\MatsiMachine\obj\Debug\MatsiMachine.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\MatsiMachine\MatsiMachine\obj\Debug\MatsiMachine.exe
+c:\users\kevin\documents\visual studio 2015\Projects\MatsiMachine\MatsiMachine\obj\Debug\MatsiMachine.pdb
